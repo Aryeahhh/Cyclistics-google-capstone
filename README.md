@@ -71,3 +71,9 @@ cleaned_data <- cleaned_data %>%
 cleaned_data <- subset(cleaned_data, select = -c(ride_id,start_station_id,end_station_id,start_lat,start_lng,end_lat,end_lng))
 ```
 
+## Analyze
+Comparing the userbase
+![Percentage_of_users (1)](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/72a446cf-6d8a-45eb-81da-e3c5740c28a4)
+
+
+We can observe that majority of the userbase seems to be members of the application, Members create substantially more revenue than casual riders, further efforts should be made to convert more casual users into members.
