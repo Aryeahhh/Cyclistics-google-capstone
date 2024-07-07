@@ -46,4 +46,7 @@ combined_data <- list.files(path="path to folder", full.names = TRUE) %>%
   lapply(read_csv) %>% 
   bind_rows
 ```
-
+### Removing NULL values
+```
+cleaned_data <- na.omit(combined_data)
+```
