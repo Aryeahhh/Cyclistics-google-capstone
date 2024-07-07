@@ -50,3 +50,24 @@ combined_data <- list.files(path="path to folder", full.names = TRUE) %>%
 ```
 cleaned_data <- na.omit(combined_data)
 ```
+### Creating ride_length Column
+```
+library(lubridate)
+cleaned_data$started_at <- ymd_hms(cleaned_data$started_at)  
+cleaned_data$ended_at <- ymd_hms(cleaned_data$ended_at)  
+cleaned_data$duration <- as.numeric(difftime(cleaned_data$ended_at,cleaned_data$started_at, units = "mins"))
+```
+### Creating day_of_week Column
+```
+cleaned_data$day_of_week <- wday(cleaned_data$started_at,label= TRUE)
+```
+### Removing dupilicate rows
+```
+cleaned_data <- cleaned_data %>%
+  distinct(ride_id, .keep_all = TRUE)
+```
+### Removing columns with data irrelevant to the analysis
+```
+cleaned_data <- subset(cleaned_data, select = -c(ride_id,start_station_id,end_station_id,start_lat,start_lng,end_lat,end_lng))
+```
+
