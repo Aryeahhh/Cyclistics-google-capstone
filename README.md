@@ -91,3 +91,13 @@ The data shows that members predominantly use bikes for commuting, with sharp pe
 
 In contrast, casual riders exhibit a different pattern, with a more even distribution of rides throughout the day and a slight increase in the afternoon between 2 PM and 4 PM. Their bike usage peaks on weekends, particularly on Saturday, and significantly drops during weekdays. This suggests that casual riders are more likely to use bikes for leisure activities rather than commuting.
 
+
+![Rides_per_month](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/b5a2b2b4-96a5-42c1-a9d0-8faab755562d)
+
+The above visualization shows that both casual and member riders exhibit a strong seasonal pattern, with peak usage in June (604,076 rides for members and 430,394 for casual riders) and lower activity in the colder months, especially December. Members consistently take more rides than casual riders throughout the year, indicating a more stable and engaged user base. While both groups see the highest number of rides in June, the decline for casual riders is sharper post-peak compared to the more gradual decline observed for members as the bikes are still used for commute.
+
+![Rideable_type_per_month (1)](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/4d72cb79-11d4-4d01-b0d2-f0a351f16e5f)
+The above visualization shows how different types of bikes are used throughout the year. Classic bikes are the most popular, with a peak of 654,939 rides in June. Their usage drops a lot in the colder months. Electric bikes also see their highest usage in June with 364,955 rides, but their decline is slower. Docked bikes are used the least, with a small peak of 17,830 rides in July. Overall, classic and electric bikes are used much more than docked bikes, especially in the summer.
+
+
+
