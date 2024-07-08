@@ -78,7 +78,13 @@ Comparing the userbase
 
 We can observe that majority of the userbase seems to be members of the application, Members create substantially more revenue than casual riders, further efforts should be made to convert more casual users into members.
 
-I wanted to analyze how members and casual users used the app differently, in doing this I compared usage on a variety of factors like, Number of rides per day of week, Rides per hour, Rides per month etc.
+I wanted to analyze how members and casual users used the app differently, in doing this I compared usage on a variety of factors like, Number of rides per day of week, Rides per hour, Rides per month etc..
+
+Looking at the average ride times.
 ![Dashboard 2](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/26b83d8a-a9a2-42fb-b4f9-e93d1f881328)
 Casual users took longer rides than members on an average, with the casual usage peeking over the weekends.
+
+Now looking at the usage over hours of the day and weekdays
+![Dashboard 3 (1)](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/f72ea742-f5e6-444e-a4ff-a86f0a999876)
+
 
