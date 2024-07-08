@@ -82,9 +82,12 @@ I wanted to analyze how members and casual users used the app differently, in do
 
 Looking at the average ride times.
 ![Dashboard 2](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/26b83d8a-a9a2-42fb-b4f9-e93d1f881328)
-Casual users took longer rides than members on an average, with the casual usage peeking over the weekends.
+The data indicates that casual riders have significantly longer average ride durations compared to members. On average, casual riders' trips last about 23.90 minutes, while members' trips are shorter, averaging 12.53 minutes. This trend suggests that casual riders might be using bikes for leisurely rides or longer explorations, whereas members use them for shorter, more utilitarian trips.
 
-Now looking at the usage over hours of the day and weekdays
+Now looking at the usage over hours of the day and over the course of a week.
 ![Dashboard 3 (1)](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/f72ea742-f5e6-444e-a4ff-a86f0a999876)
 
+The data shows that members predominantly use bikes for commuting, with sharp peaks in usage at 8 AM and 5 PM, indicating travel to and from work. Their bike usage remains consistently high during weekdays, reflecting regular commuting patterns, and slightly decreases on weekends. The highest usage peak occurs at 5 PM, aligning with the end of the workday.
+
+In contrast, casual riders exhibit a different pattern, with a more even distribution of rides throughout the day and a slight increase in the afternoon between 2 PM and 4 PM. Their bike usage peaks on weekends, particularly on Saturday, and significantly drops during weekdays. This suggests that casual riders are more likely to use bikes for leisure activities rather than commuting.
 
