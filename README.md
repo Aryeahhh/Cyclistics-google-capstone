@@ -106,5 +106,5 @@ The above visualization shows how different types of bikes are used throughout t
 2. Provide members with exclusive benefits such as priority bike access, free helmet rentals, or access to premium bikes. Enticing more casual users to switch to a membership, introducing a loyalty programme might also lead to a positive outcome.
 3. Collaborating with local companies and offering employees memberships at a discounted rate.
 
-##Conclusion
+## Conclusion
 This project helped me realize my analytical skills and also helped me improve my data cleaning and organization skills, along with added proficiency in R and Tableau.
