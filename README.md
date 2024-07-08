@@ -99,5 +99,9 @@ The above visualization shows that both casual and member riders exhibit a stron
 ![Rideable_type_per_month (1)](https://github.com/Aryeahhh/Cyclistics-google-capstone/assets/84890401/4d72cb79-11d4-4d01-b0d2-f0a351f16e5f)
 The above visualization shows how different types of bikes are used throughout the year. Classic bikes are the most popular, with a peak of 654,939 rides in June. Their usage drops a lot in the colder months. Electric bikes also see their highest usage in June with 364,955 rides, but their decline is slower. Docked bikes are used the least, with a small peak of 17,830 rides in July. Overall, classic and electric bikes are used much more than docked bikes, especially in the summer.
 
+## Act
 
+### Recommendations
+1. Seasonal Promotions should be run during peak usage months (e.g A discount for signing up during May or June)
+2. Provide members with exclusive benefits such as priority bike access, free helmet rentals, or access to premium bikes. Enticing more casual users to switch to a membership, introducing a loyalty programme might also lead to a positive outcome.
 
